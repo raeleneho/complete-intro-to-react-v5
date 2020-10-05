@@ -1,0 +1,24 @@
+{
+  "name": "complete-intro-to-react-v5",
+  "version": "1.0.0",
+  "description": "Frontend Masters Complete Intro to React v5 course",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesaltlight/complete-intro-to-react-v5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesaltlight/complete-intro-to-react-v5/issues"
+  },
+  "homepage": "https://github.com/thesaltlight/complete-intro-to-react-v5#readme",
+  "devDependencies": {
+    "prettier": "^2.1.2"
+  }
+}
